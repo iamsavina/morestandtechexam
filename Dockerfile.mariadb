@@ -1,0 +1,2 @@
+FROM mariadb:10.7.3
+ENV MARIADB_ROOT_PASSWORD="rootpwd@db"
